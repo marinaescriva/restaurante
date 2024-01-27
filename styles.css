@@ -10,3 +10,8 @@
 .media-altura{
     height: 50vh;
 }
+
+.centrartext {
+    justify-content: center;
+    text-align: center;
+}
