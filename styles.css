@@ -20,6 +20,6 @@
     align-items: center;
 }
 
-#burguer{
+.burguer{
     border-image-width: 3em;
 }
