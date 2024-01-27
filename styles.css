@@ -1,10 +1,13 @@
 
+/*body{
+    text-size-adjust: 1em;
+}*/
 .alturanav {
     height: 15vh;
 }
 
 .altura {
-    height: 100vh;
+    height: 85vh;
 }
 
 .media-altura{
