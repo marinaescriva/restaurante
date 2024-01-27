@@ -14,4 +14,9 @@
 .centrartext {
     justify-content: center;
     text-align: center;
+    align-items: center;
+}
+
+#burguer{
+    border-image-width: 3em;
 }
