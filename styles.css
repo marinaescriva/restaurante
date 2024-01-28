@@ -10,16 +10,16 @@ html {
     height: 85vh;
 }
 
-.media-altura{
-    height: 50vh;
-}
-
 .centrartext {
     justify-content: center;
     text-align: center;
     align-items: center;
 }
-
+.LosMas{
+    color:aqua;
+    background-color: #043e31;
+    justify-content: space-between;
+}
 .navTextFix{
     color: white;
     background-color: #043e31;
