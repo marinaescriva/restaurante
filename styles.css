@@ -1,7 +1,7 @@
 
-/*body{
-    text-size-adjust: 1em;
-}*/
+html {
+    font-size: calc(5px + 1vw);
+}
 .alturanav {
     height: 15vh;
 }
@@ -20,6 +20,16 @@
     align-items: center;
 }
 
-.burguer{
-    border-image-width: 3em;
+.pselectfix{
+    color:blueviolet;
+    background-color: aquamarine;
+}
+
+.pselect{
+    color:rgb(18, 90, 14);
+    background-color:whitesmoke;
+}
+.pselect:hover{
+    color:brown;
+    background-color: chocolate;
 }
