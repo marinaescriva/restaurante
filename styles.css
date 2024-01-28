@@ -20,16 +20,20 @@ html {
     align-items: center;
 }
 
-.pselectfix{
-    color:blueviolet;
-    background-color: aquamarine;
+.navTextFix{
+    color: white;
+    background-color: #043e31;
+}
+/*Quiero que el texto del campo seleccionado siempre sea blanco sobre fondo verde*/
+.navTextFix:hover{
+    color:white;
 }
 
-.pselect{
-    color:rgb(18, 90, 14);
-    background-color:whitesmoke;
+.navText{
+    color: #043e31;
+    background-color:white;
 }
-.pselect:hover{
-    color:brown;
-    background-color: chocolate;
+.navText:hover{
+    color:white;
+    background-color: #043e31;
 }
