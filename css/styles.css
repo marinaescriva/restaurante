@@ -16,6 +16,12 @@ section{
 } 
     Parece que no afecta en nada.. */
 
+
+body{
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+
 .pNow{
 
     background-color:blue;
@@ -50,9 +56,13 @@ h1{
 
 .Destacados{
 
-    height:24em;
+    display:flex;
+    height:23em;
 
-    background-color: aqua;
+    background-color: rgb(202, 239, 224);
+    color:black;
+
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
