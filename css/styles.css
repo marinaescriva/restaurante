@@ -15,3 +15,12 @@ section{
     height: 100vh;
 }
 
+.pNow{
+    background-color:blue;
+    color:white;
+}
+
+.pNow:hover{
+    background-color:blueviolet;
+    color:brown;
+}
