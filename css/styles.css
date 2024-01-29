@@ -38,6 +38,7 @@ section{
     display:flex;
     justify-content: center;
     align-items: center;
+    padding-top: 4em;
 
 }
 
@@ -47,3 +48,12 @@ h1{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }      
 
+.Destacados{
+
+    height:24em;
+
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+
+}
