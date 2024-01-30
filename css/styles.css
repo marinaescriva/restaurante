@@ -100,8 +100,10 @@ h1{
 
 .imgCentral {
     position: relative;
-    width: 100%;
+    width: auto;
     overflow: hidden;
+    padding: 0;
+  
     
 }
 
@@ -109,12 +111,5 @@ h1{
     position: absolute;
     object-fit: cover;
     width: 100%;
-    height: 100%;
-    
+   
 }
-
-.rowNoMargin {
-    display: table;
-    border-collapse: collapse;
-    width: 100%;
-  }
