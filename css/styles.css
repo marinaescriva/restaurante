@@ -22,7 +22,7 @@ body{
         
     }
 
-
+/*
 .pNow{
 
     background-color:blue;
@@ -33,6 +33,28 @@ body{
 
     background-color:blueviolet;
     color:brown;
+} */
+
+/* EL NAVEGADOR */
+
+.navTextFix{
+    color: white;
+    background-color: #043e31;
+}
+
+/*Quiero que el texto del campo seleccionado siempre sea blanco sobre fondo verde*/
+
+.navTextFix:hover{
+    color:white;
+    background-color: #043e31;
+}
+.navText{
+    color: #043e31;
+    background-color:white;
+}
+.navText:hover{
+    color:white;
+    background-color: #043e31;
 }
 
 .divHA{
@@ -46,7 +68,6 @@ body{
     justify-content: center;
     align-items: center;
     padding-top: 4em;
-
 }
 
 h1{
