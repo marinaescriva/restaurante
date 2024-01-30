@@ -39,27 +39,27 @@ body{
 
 .navTextFix{
     color: white;
-    background-color: #043e31;
+    background-color:#f0b770;
 }
 
 /*Quiero que el texto del campo seleccionado siempre sea blanco sobre fondo verde*/
 
 .navTextFix:hover{
     color:white;
-    background-color: #043e31;
+    background-color: #f0b770;
 }
 .navText{
-    color: #043e31;
+    color:#f0b770;
     background-color:white;
 }
 .navText:hover{
     color:white;
-    background-color: #043e31;
+    background-color:#f0b770;
 }
 
 .divHA{
     
-    background-color:rgb(223, 207, 102);
+    background-color:#f0b770;
     color:white;
 
     height: 12em;
@@ -67,7 +67,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    padding-top: 4em;
+    
 }
 
 h1{
@@ -85,8 +85,8 @@ h1{
     color:black;
 
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content:center;
+    align-items:center;
     padding:2em;
 
 }
@@ -112,4 +112,15 @@ h1{
     object-fit: cover;
     width: 100%;
    
+}
+
+.Elements{
+
+    display:flex;
+
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin:2em;
+
 }
