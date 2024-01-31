@@ -126,15 +126,11 @@ h1{
     margin:2em;
 
 }
-/* clase para adaptar la columna a la imagen.
-.colManos{
-    display: flex;
+.colMenu{
 
-    flex-direction: column;
-    justify-content:center;
+    display:flex;
     align-items:center;
+    padding: 2em;
 
-    padding: 0;
-    margin:0;
 
-}*/
+}
