@@ -132,5 +132,24 @@ h1{
     align-items:center;
     padding: 2em;
 
+}
+.cForm{
 
+    padding: 3em;
+}
+.card{
+
+    border-radius: 10%;
+    border-color: #f0b770;
+    border-width: 0.2em;
+    border-style: dotted;
+    background: #f0dac0;
+    transition: 0.4s;
+}
+
+.card:hover{
+
+    border-style: groove;
+    background-color: #FFFFFF;
+    transition:0.4s;
 }
