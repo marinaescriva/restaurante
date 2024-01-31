@@ -75,7 +75,7 @@ h1{
     font-style: italic;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }      
-
+ /* clases creadas para las columnas de boostrap con imagenes y textos responsive*/
 .Destacados{
 
     display:flex;
